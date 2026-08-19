@@ -1,0 +1,7 @@
+__pycache__
+*.py[cod]
+.venv/
+.DS_Store
+
+# The SQLite database is not distributed with the source (37 MB).
+*.db
